@@ -1,19 +1,154 @@
 {
   "questions": [
     {
-      "question": "What is the capital of France?",
-      "options": ["Berlin", "Madrid", "Paris", "Rome"],
-      "answer": "Paris"
+      "question": "Which data structure uses FIFO (First In First Out)?",
+      "options": ["Stack", "Queue", "Tree", "Graph"],
+      "answer": "Queue"
     },
     {
-      "question": "Which language is widely used in AI?",
-      "options": ["Python", "HTML", "CSS", "Excel"],
-      "answer": "Python"
+      "question": "What is the time complexity of binary search?",
+      "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+      "answer": "O(log n)"
     },
     {
-      "question": "2 + 2 = ?",
-      "options": ["3", "4", "5", "22"],
-      "answer": "4"
+      "question": "Which keyword is used to create an anonymous function in Python?",
+      "options": ["def", "lambda", "anon", "func"],
+      "answer": "lambda"
+    },
+    {
+      "question": "Which sorting algorithm has the best average-case performance?",
+      "options": ["Bubble Sort", "Quick Sort", "Selection Sort", "Insertion Sort"],
+      "answer": "Quick Sort"
+    },
+    {
+      "question": "Which of these is NOT an OOP principle?",
+      "options": ["Encapsulation", "Polymorphism", "Compilation", "Inheritance"],
+      "answer": "Compilation"
+    },
+    {
+      "question": "Which layer of OSI model handles routing?",
+      "options": ["Transport", "Network", "Session", "Data Link"],
+      "answer": "Network"
+    },
+    {
+      "question": "Which Python collection is unordered and mutable?",
+      "options": ["Tuple", "List", "Set", "String"],
+      "answer": "Set"
+    },
+    {
+      "question": "What will be the output of: type([])?",
+      "options": ["tuple", "set", "list", "dict"],
+      "answer": "list"
+    },
+    {
+      "question": "Which SQL command is used to remove a table?",
+      "options": ["DELETE", "DROP", "REMOVE", "CLEAR"],
+      "answer": "DROP"
+    },
+    {
+      "question": "Which protocol is used for secure web browsing?",
+      "options": ["HTTP", "FTP", "HTTPS", "SMTP"],
+      "answer": "HTTPS"
+    },
+    {
+      "question": "Which memory is fastest?",
+      "options": ["RAM", "ROM", "Cache", "Register"],
+      "answer": "Register"
+    },
+    {
+      "question": "Which algorithm is used in public-key cryptography?",
+      "options": ["AES", "RSA", "MD5", "SHA-256"],
+      "answer": "RSA"
+    },
+    {
+      "question": "Which traversal method uses recursion naturally?",
+      "options": ["Breadth-first", "Depth-first", "Binary", "Linear"],
+      "answer": "Depth-first"
+    },
+    {
+      "question": "Which operator checks identity in Python?",
+      "options": ["==", "=", "is", "!="],
+      "answer": "is"
+    },
+    {
+      "question": "Which of these is a mutable data type?",
+      "options": ["Tuple", "String", "List", "int"],
+      "answer": "List"
+    },
+    {
+      "question": "What is the default return value of a Python function?",
+      "options": ["0", "False", "None", "Null"],
+      "answer": "None"
+    },
+    {
+      "question": "Which scheduling algorithm may cause starvation?",
+      "options": ["Round Robin", "FCFS", "Priority Scheduling", "SJF"],
+      "answer": "Priority Scheduling"
+    },
+    {
+      "question": "Which component translates source code to machine code?",
+      "options": ["Interpreter", "Compiler", "Assembler", "Loader"],
+      "answer": "Compiler"
+    },
+    {
+      "question": "Which operator performs floor division?",
+      "options": ["/", "//", "%", "**"],
+      "answer": "//"
+    },
+    {
+      "question": "Which structure follows LIFO?",
+      "options": ["Queue", "Stack", "Heap", "Graph"],
+      "answer": "Stack"
+    },
+    {
+      "question": "Which hashing algorithm is considered broken for security?",
+      "options": ["SHA-256", "MD5", "SHA-3", "SHA-512"],
+      "answer": "MD5"
+    },
+    {
+      "question": "Which normal form removes partial dependency?",
+      "options": ["1NF", "2NF", "3NF", "BCNF"],
+      "answer": "2NF"
+    },
+    {
+      "question": "Which of these is NOT a valid Python loop control?",
+      "options": ["break", "continue", "pass", "skip"],
+      "answer": "skip"
+    },
+    {
+      "question": "Which data structure is used in recursion?",
+      "options": ["Queue", "Stack", "Tree", "Array"],
+      "answer": "Stack"
+    },
+    {
+      "question": "Which protocol sends emails?",
+      "options": ["HTTP", "FTP", "SMTP", "TCP"],
+      "answer": "SMTP"
+    },
+    {
+      "question": "Which complexity is worst?",
+      "options": ["O(1)", "O(log n)", "O(n)", "O(n²)"],
+      "answer": "O(n²)"
+    },
+    {
+      "question": "Which Python keyword handles errors?",
+      "options": ["try", "error", "fix", "except"],
+      "answer": "try"
+    },
+    {
+      "question": "Which tree traversal is Left → Root → Right?",
+      "options": ["Preorder", "Postorder", "Inorder", "Levelorder"],
+      "answer": "Inorder"
+    },
+    {
+      "question": "Which algorithm finds shortest path?",
+      "options": ["DFS", "Dijkstra", "Binary Search", "Merge Sort"],
+      "answer": "Dijkstra"
+    },
+    {
+      "question": "Which storage is non-volatile?",
+      "options": ["RAM", "Cache", "ROM", "Register"],
+      "answer": "ROM"
     }
   ]
 }
